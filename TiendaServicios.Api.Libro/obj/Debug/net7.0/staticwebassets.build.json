@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kqudW2XRidVE2/jZSWwEiFbUjwhJXU40eph1rTgwvto=",
+  "Source": "TiendaServicios.Api.Libro",
+  "BasePath": "_content/TiendaServicios.Api.Libro",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
