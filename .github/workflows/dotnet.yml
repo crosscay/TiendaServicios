@@ -40,8 +40,7 @@ jobs:
         done
 
     - name: Upload build artifacts
-      uses: actions/upload-artifact@v2  # Subir los artefactos generados
+      uses: actions/upload-artifact@v3  # Usar la versión más reciente
       with:
-        name: drop
+        name: drop  # Nombre del artefacto
         path: ./publish  # Ruta donde se encuentran los artefactos generados
-
