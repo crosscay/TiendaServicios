@@ -10,7 +10,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest  # Usar Ubuntu como el entorno de ejecución
+    runs-on: windows-latest  # Cambiamos a Windows Server
 
     steps:
     - name: Checkout code
