@@ -1,0 +1,46 @@
+name: CI/CD Pipeline for .NET Core
+
+on:
+  push:
+    branches:
+      - master  # Se ejecuta en cada push a la rama 'master'
+  pull_request:
+    branches:
+      - master  # También se ejecuta en PRs hacia la rama 'master'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest  # Cambiamos a Windows Server
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2  # Obtener el código del repositorio
+
+    - name: Set up .NET SDK
+      uses: actions/setup-dotnet@v1  # Configura el SDK de .NET
+      with:
+        dotnet-version: '7.x'  # Configurar la versión de .NET 7.x
+
+    - name: Restore dependencies
+      run: |
+        for proj in $(find . -name '*.csproj'); do
+          dotnet restore "$proj"
+        done
+
+    - name: Build the project
+      run: |
+        for proj in $(find . -name '*.csproj'); do
+          dotnet build "$proj" --configuration Release
+        done
+
+    - name: Publish the project
+      run: |
+        for proj in $(find . -name '*.csproj'); do
+          dotnet publish "$proj" -c Release -o ./publish
+        done
+
+    - name: Upload build artifacts
+      uses: actions/upload-artifact@v4  # Usar la versión más reciente
+      with:
+        name: drop  # Nombre del artefacto
+        path: ./publish  # Ruta donde se encuentran los artefactos generados
