@@ -1,0 +1,74 @@
+[
+  {
+    "ContainingType": "TiendaServicios.Api.Libro.Controllers.LibroMaterialController",
+    "Method": "Crear",
+    "RelativePath": "api/LibroMaterial",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "TiendaServicios.Api.Libro.Aplicacion.Nuevo\u002BEjecuta",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MediatR.Unit",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TiendaServicios.Api.Libro.Controllers.LibroMaterialController",
+    "Method": "GetLibros",
+    "RelativePath": "api/LibroMaterial",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[TiendaServicios.Api.Libro.Aplicacion.LibroMaterialDto, TiendaServicios.Api.Libro, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TiendaServicios.Api.Libro.Controllers.LibroMaterialController",
+    "Method": "GetLibroUnico",
+    "RelativePath": "api/LibroMaterial/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TiendaServicios.Api.Libro.Aplicacion.LibroMaterialDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

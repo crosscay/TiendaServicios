@@ -1,0 +1,739 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\proyectos\\TiendaServicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{523A0E98-CFB0-403D-A905-63816D42E158}|TiendaServicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.libro.tests\\librosservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{523A0E98-CFB0-403D-A905-63816D42E158}|TiendaServicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj|solutionrelative:tiendaservicios.api.libro.tests\\librosservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{523A0E98-CFB0-403D-A905-63816D42E158}|TiendaServicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.libro.tests\\asyncqueryprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{523A0E98-CFB0-403D-A905-63816D42E158}|TiendaServicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj|solutionrelative:tiendaservicios.api.libro.tests\\asyncqueryprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{523A0E98-CFB0-403D-A905-63816D42E158}|TiendaServicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.libro.tests\\asyncenumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{523A0E98-CFB0-403D-A905-63816D42E158}|TiendaServicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj|solutionrelative:tiendaservicios.api.libro.tests\\asyncenumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.libro\\persistencia\\contextolibreria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|solutionrelative:tiendaservicios.api.libro\\persistencia\\contextolibreria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{523A0E98-CFB0-403D-A905-63816D42E158}|TiendaServicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.libro.tests\\tiendaservicios.api.libro.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{523A0E98-CFB0-403D-A905-63816D42E158}|TiendaServicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj|solutionrelative:tiendaservicios.api.libro.tests\\tiendaservicios.api.libro.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{523A0E98-CFB0-403D-A905-63816D42E158}|TiendaServicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.libro.tests\\mappingtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{523A0E98-CFB0-403D-A905-63816D42E158}|TiendaServicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj|solutionrelative:tiendaservicios.api.libro.tests\\mappingtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5567E5A-C7A8-4CCE-9621-577E767BA3C1}|TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.carritocompra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5567E5A-C7A8-4CCE-9621-577E767BA3C1}|TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj|solutionrelative:tiendaservicios.api.carritocompra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5567E5A-C7A8-4CCE-9621-577E767BA3C1}|TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.carritocompra\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5567E5A-C7A8-4CCE-9621-577E767BA3C1}|TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj|solutionrelative:tiendaservicios.api.carritocompra\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5567E5A-C7A8-4CCE-9621-577E767BA3C1}|TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.carritocompra\\controllers\\carritocomprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5567E5A-C7A8-4CCE-9621-577E767BA3C1}|TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj|solutionrelative:tiendaservicios.api.carritocompra\\controllers\\carritocomprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5567E5A-C7A8-4CCE-9621-577E767BA3C1}|TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.carritocompra\\aplicacion\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5567E5A-C7A8-4CCE-9621-577E767BA3C1}|TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj|solutionrelative:tiendaservicios.api.carritocompra\\aplicacion\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5567E5A-C7A8-4CCE-9621-577E767BA3C1}|TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.carritocompra\\remoteservice\\librosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5567E5A-C7A8-4CCE-9621-577E767BA3C1}|TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj|solutionrelative:tiendaservicios.api.carritocompra\\remoteservice\\librosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5567E5A-C7A8-4CCE-9621-577E767BA3C1}|TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.carritocompra\\remotemodel\\libroremote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5567E5A-C7A8-4CCE-9621-577E767BA3C1}|TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj|solutionrelative:tiendaservicios.api.carritocompra\\remotemodel\\libroremote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5567E5A-C7A8-4CCE-9621-577E767BA3C1}|TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.carritocompra\\remoteinterface\\ilibrosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5567E5A-C7A8-4CCE-9621-577E767BA3C1}|TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj|solutionrelative:tiendaservicios.api.carritocompra\\remoteinterface\\ilibrosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.libro\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|solutionrelative:tiendaservicios.api.libro\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E1A71A-4DD8-4EFC-88D9-27D534FF10A8}|TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.autor\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5E1A71A-4DD8-4EFC-88D9-27D534FF10A8}|TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj|solutionrelative:tiendaservicios.api.autor\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E1A71A-4DD8-4EFC-88D9-27D534FF10A8}|TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.autor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5E1A71A-4DD8-4EFC-88D9-27D534FF10A8}|TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj|solutionrelative:tiendaservicios.api.autor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.libro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|solutionrelative:tiendaservicios.api.libro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.libro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|solutionrelative:tiendaservicios.api.libro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.libro\\modelo\\libreriamaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|solutionrelative:tiendaservicios.api.libro\\modelo\\libreriamaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E1A71A-4DD8-4EFC-88D9-27D534FF10A8}|TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.autor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E1A71A-4DD8-4EFC-88D9-27D534FF10A8}|TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj|solutionrelative:tiendaservicios.api.autor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5567E5A-C7A8-4CCE-9621-577E767BA3C1}|TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.carritocompra\\aplicacion\\carritodetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5567E5A-C7A8-4CCE-9621-577E767BA3C1}|TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj|solutionrelative:tiendaservicios.api.carritocompra\\aplicacion\\carritodetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5567E5A-C7A8-4CCE-9621-577E767BA3C1}|TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.carritocompra\\aplicacion\\nuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5567E5A-C7A8-4CCE-9621-577E767BA3C1}|TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj|solutionrelative:tiendaservicios.api.carritocompra\\aplicacion\\nuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.libro\\aplicacion\\nuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|solutionrelative:tiendaservicios.api.libro\\aplicacion\\nuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5567E5A-C7A8-4CCE-9621-577E767BA3C1}|TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.carritocompra\\persistencia\\carritocontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5567E5A-C7A8-4CCE-9621-577E767BA3C1}|TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj|solutionrelative:tiendaservicios.api.carritocompra\\persistencia\\carritocontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.libro\\tiendaservicios.api.libro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|solutionrelative:tiendaservicios.api.libro\\tiendaservicios.api.libro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.libro\\controllers\\libromaterialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|solutionrelative:tiendaservicios.api.libro\\controllers\\libromaterialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.libro\\aplicacion\\consultafiltro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|solutionrelative:tiendaservicios.api.libro\\aplicacion\\consultafiltro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.libro\\aplicacion\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|solutionrelative:tiendaservicios.api.libro\\aplicacion\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E1A71A-4DD8-4EFC-88D9-27D534FF10A8}|TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.autor\\aplicacion\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E1A71A-4DD8-4EFC-88D9-27D534FF10A8}|TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj|solutionrelative:tiendaservicios.api.autor\\aplicacion\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E1A71A-4DD8-4EFC-88D9-27D534FF10A8}|TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.autor\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E1A71A-4DD8-4EFC-88D9-27D534FF10A8}|TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj|solutionrelative:tiendaservicios.api.autor\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.libro\\aplicacion\\libromaterialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|solutionrelative:tiendaservicios.api.libro\\aplicacion\\libromaterialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.libro\\aplicacion\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|solutionrelative:tiendaservicios.api.libro\\aplicacion\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E1A71A-4DD8-4EFC-88D9-27D534FF10A8}|TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.autor\\aplicacion\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E1A71A-4DD8-4EFC-88D9-27D534FF10A8}|TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj|solutionrelative:tiendaservicios.api.autor\\aplicacion\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E1A71A-4DD8-4EFC-88D9-27D534FF10A8}|TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.autor\\persistencia\\contextoautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E1A71A-4DD8-4EFC-88D9-27D534FF10A8}|TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj|solutionrelative:tiendaservicios.api.autor\\persistencia\\contextoautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E1A71A-4DD8-4EFC-88D9-27D534FF10A8}|TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.autor\\aplicacion\\nuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E1A71A-4DD8-4EFC-88D9-27D534FF10A8}|TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj|solutionrelative:tiendaservicios.api.autor\\aplicacion\\nuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.libro\\migrations\\20250214002647_migrationsqlserverinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|solutionrelative:tiendaservicios.api.libro\\migrations\\20250214002647_migrationsqlserverinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.libro\\tiendaservicios.api.libro.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|solutionrelative:tiendaservicios.api.libro\\tiendaservicios.api.libro.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.libro\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC9A61E9-7E40-4617-9248-C3617899629D}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|solutionrelative:tiendaservicios.api.libro\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E1A71A-4DD8-4EFC-88D9-27D534FF10A8}|TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.autor\\migrations\\contextoautormodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E1A71A-4DD8-4EFC-88D9-27D534FF10A8}|TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj|solutionrelative:tiendaservicios.api.autor\\migrations\\contextoautormodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E1A71A-4DD8-4EFC-88D9-27D534FF10A8}|TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.autor\\migrations\\20240117010900_migracionpostgresinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E1A71A-4DD8-4EFC-88D9-27D534FF10A8}|TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj|solutionrelative:tiendaservicios.api.autor\\migrations\\20240117010900_migracionpostgresinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E1A71A-4DD8-4EFC-88D9-27D534FF10A8}|TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.autor\\aplicacion\\consultafiltro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E1A71A-4DD8-4EFC-88D9-27D534FF10A8}|TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj|solutionrelative:tiendaservicios.api.autor\\aplicacion\\consultafiltro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E1A71A-4DD8-4EFC-88D9-27D534FF10A8}|TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.autor\\modelo\\autorlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E1A71A-4DD8-4EFC-88D9-27D534FF10A8}|TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj|solutionrelative:tiendaservicios.api.autor\\modelo\\autorlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E1A71A-4DD8-4EFC-88D9-27D534FF10A8}|TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.autor\\aplicacion\\autordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E1A71A-4DD8-4EFC-88D9-27D534FF10A8}|TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj|solutionrelative:tiendaservicios.api.autor\\aplicacion\\autordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E1A71A-4DD8-4EFC-88D9-27D534FF10A8}|TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj|d:\\proyectos\\tiendaservicios\\tiendaservicios.api.autor\\modelo\\gradoacademico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E1A71A-4DD8-4EFC-88D9-27D534FF10A8}|TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj|solutionrelative:tiendaservicios.api.autor\\modelo\\gradoacademico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AsyncQueryProvider.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro.Tests\\AsyncQueryProvider.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Libro.Tests\\AsyncQueryProvider.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro.Tests\\AsyncQueryProvider.cs",
+              "RelativeToolTip": "TiendaServicios.Api.Libro.Tests\\AsyncQueryProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:37:45.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AsyncEnumerator.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro.Tests\\AsyncEnumerator.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Libro.Tests\\AsyncEnumerator.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro.Tests\\AsyncEnumerator.cs",
+              "RelativeToolTip": "TiendaServicios.Api.Libro.Tests\\AsyncEnumerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:37:32.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MappingTest.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro.Tests\\MappingTest.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Libro.Tests\\MappingTest.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro.Tests\\MappingTest.cs",
+              "RelativeToolTip": "TiendaServicios.Api.Libro.Tests\\MappingTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:19:09.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TiendaServicios.Api.Libro.Tests",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj",
+              "RelativeToolTip": "TiendaServicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-17T13:14:40.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibrosServiceTest.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro.Tests\\LibrosServiceTest.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Libro.Tests\\LibrosServiceTest.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro.Tests\\LibrosServiceTest.cs",
+              "RelativeToolTip": "TiendaServicios.Api.Libro.Tests\\LibrosServiceTest.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCsAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:13:15.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\Aplicacion\\Consulta.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.CarritoCompra\\Aplicacion\\Consulta.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\Aplicacion\\Consulta.cs",
+              "RelativeToolTip": "TiendaServicios.Api.CarritoCompra\\Aplicacion\\Consulta.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T23:43:41.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\appsettings.json",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.CarritoCompra\\appsettings.json",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\appsettings.json",
+              "RelativeToolTip": "TiendaServicios.Api.CarritoCompra\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-15T21:02:29.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContextoLibreria.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\Persistencia\\ContextoLibreria.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Libro\\Persistencia\\ContextoLibreria.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\Persistencia\\ContextoLibreria.cs",
+              "RelativeToolTip": "TiendaServicios.Api.Libro\\Persistencia\\ContextoLibreria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T01:46:41.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LibroRemote.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\RemoteModel\\LibroRemote.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.CarritoCompra\\RemoteModel\\LibroRemote.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\RemoteModel\\LibroRemote.cs",
+              "RelativeToolTip": "TiendaServicios.Api.CarritoCompra\\RemoteModel\\LibroRemote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T21:08:56.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Libro\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TiendaServicios.Api.Libro\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-15T21:05:02.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\Program.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.CarritoCompra\\Program.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\Program.cs",
+              "RelativeToolTip": "TiendaServicios.Api.CarritoCompra\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T23:37:21.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarritoComprasController.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\Controllers\\CarritoComprasController.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.CarritoCompra\\Controllers\\CarritoComprasController.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\Controllers\\CarritoComprasController.cs",
+              "RelativeToolTip": "TiendaServicios.Api.CarritoCompra\\Controllers\\CarritoComprasController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:02:20.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ILibrosService.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\RemoteInterface\\ILibrosService.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.CarritoCompra\\RemoteInterface\\ILibrosService.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\RemoteInterface\\ILibrosService.cs",
+              "RelativeToolTip": "TiendaServicios.Api.CarritoCompra\\RemoteInterface\\ILibrosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T21:08:59.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LibrosService.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\RemoteService\\LibrosService.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.CarritoCompra\\RemoteService\\LibrosService.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\RemoteService\\LibrosService.cs",
+              "RelativeToolTip": "TiendaServicios.Api.CarritoCompra\\RemoteService\\LibrosService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBYAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T21:10:24.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\Program.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Libro\\Program.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\Program.cs",
+              "RelativeToolTip": "TiendaServicios.Api.Libro\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:51:36.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LibreriaMaterial.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\Modelo\\LibreriaMaterial.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Libro\\Modelo\\LibreriaMaterial.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\Modelo\\LibreriaMaterial.cs",
+              "RelativeToolTip": "TiendaServicios.Api.Libro\\Modelo\\LibreriaMaterial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T01:43:09.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\appsettings.json",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Libro\\appsettings.json",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\appsettings.json",
+              "RelativeToolTip": "TiendaServicios.Api.Libro\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-13T01:16:18.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\appsettings.json",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Autor\\appsettings.json",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\appsettings.json",
+              "RelativeToolTip": "TiendaServicios.Api.Autor\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-15T21:03:52.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Autor\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TiendaServicios.Api.Autor\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-15T20:21:51.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\Program.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Autor\\Program.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\Program.cs",
+              "RelativeToolTip": "TiendaServicios.Api.Autor\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:48:18.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CarritoDetalleDto.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\Aplicacion\\CarritoDetalleDto.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.CarritoCompra\\Aplicacion\\CarritoDetalleDto.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\Aplicacion\\CarritoDetalleDto.cs",
+              "RelativeToolTip": "TiendaServicios.Api.CarritoCompra\\Aplicacion\\CarritoDetalleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:43:15.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Nuevo.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\Aplicacion\\Nuevo.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.CarritoCompra\\Aplicacion\\Nuevo.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\Aplicacion\\Nuevo.cs",
+              "RelativeToolTip": "TiendaServicios.Api.CarritoCompra\\Aplicacion\\Nuevo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:56:50.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Nuevo.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\Aplicacion\\Nuevo.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Libro\\Aplicacion\\Nuevo.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\Aplicacion\\Nuevo.cs",
+              "RelativeToolTip": "TiendaServicios.Api.Libro\\Aplicacion\\Nuevo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:11:22.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CarritoContexto.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\Persistencia\\CarritoContexto.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.CarritoCompra\\Persistencia\\CarritoContexto.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\Persistencia\\CarritoContexto.cs",
+              "RelativeToolTip": "TiendaServicios.Api.CarritoCompra\\Persistencia\\CarritoContexto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T22:25:50.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TiendaServicios.Api.Libro.csproj",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj",
+              "RelativeToolTip": "TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T22:03:25.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\Aplicacion\\Consulta.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Libro\\Aplicacion\\Consulta.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\Aplicacion\\Consulta.cs",
+              "RelativeToolTip": "TiendaServicios.Api.Libro\\Aplicacion\\Consulta.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T17:46:04.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\Aplicacion\\Consulta.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Autor\\Aplicacion\\Consulta.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\Aplicacion\\Consulta.cs",
+              "RelativeToolTip": "TiendaServicios.Api.Autor\\Aplicacion\\Consulta.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:48:18.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\Controllers\\AutorController.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Autor\\Controllers\\AutorController.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\Controllers\\AutorController.cs",
+              "RelativeToolTip": "TiendaServicios.Api.Autor\\Controllers\\AutorController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:48:18.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LibroMaterialController.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\Controllers\\LibroMaterialController.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Libro\\Controllers\\LibroMaterialController.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\Controllers\\LibroMaterialController.cs",
+              "RelativeToolTip": "TiendaServicios.Api.Libro\\Controllers\\LibroMaterialController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:52:25.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ConsultaFiltro.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\Aplicacion\\ConsultaFiltro.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Libro\\Aplicacion\\ConsultaFiltro.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\Aplicacion\\ConsultaFiltro.cs",
+              "RelativeToolTip": "TiendaServicios.Api.Libro\\Aplicacion\\ConsultaFiltro.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:31:32.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LibroMaterialDto.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\Aplicacion\\LibroMaterialDto.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Libro\\Aplicacion\\LibroMaterialDto.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\Aplicacion\\LibroMaterialDto.cs",
+              "RelativeToolTip": "TiendaServicios.Api.Libro\\Aplicacion\\LibroMaterialDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T17:37:30.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\Aplicacion\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Libro\\Aplicacion\\MappingProfile.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\Aplicacion\\MappingProfile.cs",
+              "RelativeToolTip": "TiendaServicios.Api.Libro\\Aplicacion\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T17:39:01.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ContextoAutor.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\Persistencia\\ContextoAutor.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Autor\\Persistencia\\ContextoAutor.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\Persistencia\\ContextoAutor.cs",
+              "RelativeToolTip": "TiendaServicios.Api.Autor\\Persistencia\\ContextoAutor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:48:18.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\Aplicacion\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Autor\\Aplicacion\\MappingProfile.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\Aplicacion\\MappingProfile.cs",
+              "RelativeToolTip": "TiendaServicios.Api.Autor\\Aplicacion\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:48:18.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Libro\\appsettings.Development.json",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\appsettings.Development.json",
+              "RelativeToolTip": "TiendaServicios.Api.Libro\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-13T23:58:35.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250214002647_MigrationSqlServerInicial.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\Migrations\\20250214002647_MigrationSqlServerInicial.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Libro\\Migrations\\20250214002647_MigrationSqlServerInicial.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\Migrations\\20250214002647_MigrationSqlServerInicial.cs",
+              "RelativeToolTip": "TiendaServicios.Api.Libro\\Migrations\\20250214002647_MigrationSqlServerInicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T00:26:54.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Nuevo.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\Aplicacion\\Nuevo.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Autor\\Aplicacion\\Nuevo.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\Aplicacion\\Nuevo.cs",
+              "RelativeToolTip": "TiendaServicios.Api.Autor\\Aplicacion\\Nuevo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:48:18.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TiendaServicios.Api.Libro",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj",
+              "RelativeToolTip": "TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T00:22:31.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240117010900_MigracionPostgresInitial.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\Migrations\\20240117010900_MigracionPostgresInitial.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Autor\\Migrations\\20240117010900_MigracionPostgresInitial.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\Migrations\\20240117010900_MigracionPostgresInitial.cs",
+              "RelativeToolTip": "TiendaServicios.Api.Autor\\Migrations\\20240117010900_MigracionPostgresInitial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T01:55:12.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ContextoAutorModelSnapshot.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\Migrations\\ContextoAutorModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Autor\\Migrations\\ContextoAutorModelSnapshot.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\Migrations\\ContextoAutorModelSnapshot.cs",
+              "RelativeToolTip": "TiendaServicios.Api.Autor\\Migrations\\ContextoAutorModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T01:55:18.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AutorDto.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\Aplicacion\\AutorDto.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Autor\\Aplicacion\\AutorDto.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\Aplicacion\\AutorDto.cs",
+              "RelativeToolTip": "TiendaServicios.Api.Autor\\Aplicacion\\AutorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:48:18.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AutorLibro.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\Modelo\\AutorLibro.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Autor\\Modelo\\AutorLibro.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\Modelo\\AutorLibro.cs",
+              "RelativeToolTip": "TiendaServicios.Api.Autor\\Modelo\\AutorLibro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:48:18.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ConsultaFiltro.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\Aplicacion\\ConsultaFiltro.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Autor\\Aplicacion\\ConsultaFiltro.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\Aplicacion\\ConsultaFiltro.cs",
+              "RelativeToolTip": "TiendaServicios.Api.Autor\\Aplicacion\\ConsultaFiltro.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:48:18.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GradoAcademico.cs",
+              "DocumentMoniker": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\Modelo\\GradoAcademico.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Autor\\Modelo\\GradoAcademico.cs",
+              "ToolTip": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\Modelo\\GradoAcademico.cs",
+              "RelativeToolTip": "TiendaServicios.Api.Autor\\Modelo\\GradoAcademico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:48:18.8Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

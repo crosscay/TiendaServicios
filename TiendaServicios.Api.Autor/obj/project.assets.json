@@ -1819,23 +1819,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\caice\\.nuget\\packages\\": {},
+    "C:\\Users\\caicedoc\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\caice\\source\\repos\\MicroserviceTienda\\TiendaServicios\\TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj",
+      "projectUniqueName": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj",
       "projectName": "TiendaServicios.Api.Autor",
-      "projectPath": "C:\\Users\\caice\\source\\repos\\MicroserviceTienda\\TiendaServicios\\TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj",
-      "packagesPath": "C:\\Users\\caice\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\caice\\source\\repos\\MicroserviceTienda\\TiendaServicios\\TiendaServicios.Api.Autor\\obj\\",
+      "projectPath": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj",
+      "packagesPath": "C:\\Users\\caicedoc\\.nuget\\packages\\",
+      "outputPath": "D:\\proyectos\\TiendaServicios\\TiendaServicios.Api.Autor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\caice\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\caicedoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1856,7 +1856,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net7.0": {
@@ -1922,7 +1928,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

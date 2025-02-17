@@ -1,8 +1,27 @@
-var builder = WebApplication.CreateBuilder(args);
+using FluentValidation.AspNetCore;
+using MediatR;
+using Microsoft.EntityFrameworkCore;
+using TiendaServicios.Api.Libro.Aplicacion;
+using TiendaServicios.Api.Libro.Persistencia;
 
+var builder = WebApplication.CreateBuilder(args);
+// Obtener el objeto Configuration
+var configuration = builder.Configuration;
 // Add services to the container.
 
-builder.Services.AddControllers();
+
+builder.Services.AddControllers().AddFluentValidation(cfg => cfg.RegisterValidatorsFromAssemblyContaining<Nuevo>());
+
+//builder.Services.AddControllers();
+// Add services to the container.
+builder.Services.AddDbContext<ContextoLibreria>(options => {
+    options.UseSqlServer(configuration.GetConnectionString("ConexionDb")); // Asegúrate de ajustar el nombre de la conexión según tu configuración
+});
+
+builder.Services.AddMediatR(typeof(Nuevo.Manejador).Assembly);
+
+builder.Services.AddAutoMapper(typeof(Consulta.Ejecuta));
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

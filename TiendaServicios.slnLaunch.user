@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

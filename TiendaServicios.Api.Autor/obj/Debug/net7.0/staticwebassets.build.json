@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "A7hnDJNgbov9U4PpqOtjXws0JY0W3fe5j2nbAmGl+/8=",
+  "Hash": "Pf3nWlT5uP345KV29rmwe4vWK9DAsy8X6Fjpwfa5t0w=",
   "Source": "TiendaServicios.Api.Autor",
   "BasePath": "_content/TiendaServicios.Api.Autor",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
