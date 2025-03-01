@@ -11,6 +11,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaServicios.Api.Carrito
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaServicios.Api.Libro.Tests", "TiendaServicios.Api.Libro.Tests\TiendaServicios.Api.Libro.Tests.csproj", "{523A0E98-CFB0-403D-A905-63816D42E158}"
 EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{BC7206A7-5FBA-4F75-B735-8DF0A5B75DC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaServicios.Api.Gateway", "TiendaServicios.Api.Gateway\TiendaServicios.Api.Gateway.csproj", "{22AB63A5-DD82-4947-8104-4E924A503067}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaServicios.RabbitMQ.Bus", "TiendaServicios.RabbitMQ.Bus\TiendaServicios.RabbitMQ.Bus.csproj", "{77DCAE03-B394-426D-99AE-C8115CF45A1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaServicios.Mensajeria.Email", "TiendaServicios.Mensajeria.Email\TiendaServicios.Mensajeria.Email.csproj", "{335C5DE0-E6BB-47D1-A865-4291F6F1C181}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +41,22 @@ Global
 		{523A0E98-CFB0-403D-A905-63816D42E158}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{523A0E98-CFB0-403D-A905-63816D42E158}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{523A0E98-CFB0-403D-A905-63816D42E158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC7206A7-5FBA-4F75-B735-8DF0A5B75DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC7206A7-5FBA-4F75-B735-8DF0A5B75DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC7206A7-5FBA-4F75-B735-8DF0A5B75DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC7206A7-5FBA-4F75-B735-8DF0A5B75DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22AB63A5-DD82-4947-8104-4E924A503067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22AB63A5-DD82-4947-8104-4E924A503067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22AB63A5-DD82-4947-8104-4E924A503067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22AB63A5-DD82-4947-8104-4E924A503067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77DCAE03-B394-426D-99AE-C8115CF45A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77DCAE03-B394-426D-99AE-C8115CF45A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77DCAE03-B394-426D-99AE-C8115CF45A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77DCAE03-B394-426D-99AE-C8115CF45A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{335C5DE0-E6BB-47D1-A865-4291F6F1C181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{335C5DE0-E6BB-47D1-A865-4291F6F1C181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{335C5DE0-E6BB-47D1-A865-4291F6F1C181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{335C5DE0-E6BB-47D1-A865-4291F6F1C181}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

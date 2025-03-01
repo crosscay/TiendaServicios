@@ -1,0 +1,30 @@
+services:
+  tiendaservicios.api.autor:
+    image: ${DOCKER_REGISTRY-}tiendaserviciosapiautor
+    build:
+      context: .
+      dockerfile: TiendaServicios.Api.Autor/Dockerfile
+  tiendaservicios.api.libro:
+    image: ${DOCKER_REGISTRY-}tiendaserviciosapilibro
+    build:
+      context: .
+      dockerfile: TiendaServicios.Api.Libro/Dockerfile
+
+  tiendaservicios.api.carritocompra:
+    image: ${DOCKER_REGISTRY-}tiendaserviciosapicarritocompra
+    build:
+      context: .
+      dockerfile: TiendaServicios.Api.CarritoCompra/Dockerfile
+
+  tiendaservicios.api.gateway:
+    image: ${DOCKER_REGISTRY-}tiendaserviciosapigateway
+    build:
+      context: .
+      dockerfile: TiendaServicios.Api.Gateway/Dockerfile
+
+networks:
+    default:
+        external:
+            name: microservicenet
+
+

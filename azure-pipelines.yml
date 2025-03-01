@@ -1,0 +1,39 @@
+trigger:
+- master  # Se ejecuta en cada push a la rama 'master'
+
+pool:
+  vmImage: 'ubuntu-latest'  # Usa Ubuntu como agente para compilar
+
+variables:
+  buildConfiguration: 'Release'  # Configuración de compilación
+
+steps:
+- task: UseDotNet@2  # Instalar SDK de .NET 7
+  inputs:
+    packageType: 'sdk'
+    version: '7.x'
+    installationPath: $(Agent.ToolsDirectory)/dotnet
+
+- script: |
+    for proj in $(find . -name '*.csproj'); do
+        dotnet restore "$proj"
+    done
+  displayName: 'Restaurar paquetes NuGet'
+
+- script: |
+    for proj in $(find . -name '*.csproj'); do
+        dotnet build "$proj" --configuration $(buildConfiguration)
+    done
+  displayName: 'Compilar API'
+
+- script: |
+    for proj in $(find . -name '*.csproj'); do
+        dotnet publish "$proj" -c $(buildConfiguration) -o $(Build.ArtifactStagingDirectory)
+    done
+  displayName: 'Publicar API'
+
+- task: PublishBuildArtifacts@1
+  displayName: 'Publicar artefactos'
+  inputs:
+    pathToPublish: '$(Build.ArtifactStagingDirectory)'
+    artifactName: 'drop'

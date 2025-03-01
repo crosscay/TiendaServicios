@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "Docker Compose": {
+      "commandName": "DockerCompose",
+      "commandVersion": "1.0",
+      "serviceActions": {
+        "tiendaservicios.api.autor": "StartDebugging",
+        "tiendaservicios.api.libro": "StartDebugging",
+        "tiendaservicios.api.carritocompra": "StartDebugging",
+        "tiendaservicios.api.gateway": "StartDebugging"
+      }
+    }
+  }
+}

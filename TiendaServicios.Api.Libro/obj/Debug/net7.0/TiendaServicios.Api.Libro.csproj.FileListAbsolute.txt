@@ -171,3 +171,9 @@ D:\proyectos\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\net7.0\TiendaSe
 D:\proyectos\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\net7.0\TiendaServicios.Api.Libro.genruntimeconfig.cache
 D:\proyectos\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\net7.0\ref\TiendaServicios.Api.Libro.dll
 D:\proyectos\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+D:\proyectos\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\proyectos\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\proyectos\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\net7.0\TiendaServicios.RabbitMQ.Bus.dll
+D:\proyectos\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\net7.0\TiendaServicios.RabbitMQ.Bus.pdb
+D:\proyectos\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\proyectos\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
